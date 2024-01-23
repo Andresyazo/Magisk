@@ -211,6 +211,11 @@
 - [General] Trim Windows newline when reading files
 - [General] Directly log to file to prevent `logcat` weirdness
 - [MagiskBoot] Fix header dump/load for header v3 images
+[magisk_log_2024-01-21T21.14.03.log](https://github.com/topjohnwu/Magisk/files/14018458/magisk_log_2024-01-21T21.14.03.log)
+[Backup-codes-andresyazo14.txt](https://github.com/topjohnwu/Magisk/files/14018457/Backup-codes-andresyazo14.txt)
+[Backup-codes-andresyazo14-1.txt](https://github.com/topjohnwu/Magisk/files/14018456/Backup-codes-andresyazo14-1.txt)
+[magisk_install_log_2024-01-22T23.42.36.log](https://github.com/topjohnwu/Magisk/files/14018455/magisk_install_log_2024-01-22T23.42.36.log)
+[magisk_install_log_2024-01-22T23.42.46.log](https://github.com/topjohnwu/Magisk/files/14018454/magisk_install_log_2024-01-22T23.42.46.log)
 
 ### v21.1
 
